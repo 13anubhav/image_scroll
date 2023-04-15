@@ -1,1 +1,1 @@
-# image_scroll
+# mage_sequence_trail
